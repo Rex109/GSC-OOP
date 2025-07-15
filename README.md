@@ -17,7 +17,7 @@ It allows class definitions, inheritance, constructors, method overriding, and s
 - Inheritance with method overriding
 - Constructor and `super()` calls
 - `method()` and `super()` helpers for cleaner syntax
-- Usable within CoD4's scripting environment
+- Usable within CoD4's scripting environment, both on MP & SP
 
 ## 🧠 Core API
 
