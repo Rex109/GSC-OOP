@@ -1,7 +1,6 @@
 # Call of Duty 4 – GSC OOP Framework
 
-
-<img width="1820" height="396" alt="logo" src="https://github.com/user-attachments/assets/707f1dae-7fe2-4613-8280-83143d5fd451" />
+<img width="1820" height="396" alt="logo" src="https://github.com/user-attachments/assets/53d21570-3413-4904-b7ef-2e916abfd34e" />
 
 *<p align="center"><sub>Write less code! Stop repeating yourself!</sub></p>*
 <br>
