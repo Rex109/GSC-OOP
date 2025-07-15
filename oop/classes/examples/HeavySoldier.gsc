@@ -1,5 +1,5 @@
 #include oop\oop_lib;
-#include oop\classes\examples\soldier;
+#include oop\classes\examples\Soldier;
 
 HeavySoldier_ctor(this, args)
 {
