@@ -15,8 +15,6 @@ It allows class definitions, inheritance, constructors, method overriding, and s
 - `method()` and `super()` helpers for cleaner syntax
 - Usable within CoD4's scripting environment
 
----
-
 ## 🧠 Core API
 
 ### new(cls, argsArray)
